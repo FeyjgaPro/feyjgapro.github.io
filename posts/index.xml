@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://feyjgapro.github.io/posts/index.xml</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Jun 2021 12:47:28 +0200</lastBuildDate>
+    <atom:link href="https://feyjgapro.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>my fist post</title>
+      <link>https://feyjgapro.github.io/posts/my-fist-post/</link>
+      <pubDate>Wed, 23 Jun 2021 12:47:28 +0200</pubDate>
+      
+      <guid>https://feyjgapro.github.io/posts/my-fist-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
