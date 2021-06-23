@@ -16,8 +16,17 @@
       <guid>https://feyjgapro.github.io/beleg/</guid>
       <description>&lt;p&gt;Um einen Beleg anzufordern, rufen Sie bitte folgende Seite auf:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://portal.jjames.eu/beleg&#34;&gt;Beleg drucken&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://portal.jjames.eu/beleg&#34;&gt;Beleg anfordern&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://feyjgapro.github.io/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://feyjgapro.github.io/impressum/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -26,7 +35,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://feyjgapro.github.io/preise/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Stunden- und Tagestarife&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Die Bezahlung findet bei der Ausfahrt auschließlich per
+Bankomat- oder Kreditkarte statt. Benötigen Sie einen Belege, können
+Sie diesen anschließend &lt;a href=&#34;portal.jjames.eu/beleg&#34;&gt;hier &lt;/a&gt; anfordern.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stunden- und Tagestarife&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -53,7 +66,7 @@
 &lt;tr&gt;
 &lt;td&gt;1 Tag&lt;/td&gt;
 &lt;td&gt;€ 15,-&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;+&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
