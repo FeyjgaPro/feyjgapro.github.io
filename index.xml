@@ -143,22 +143,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://feyjgapro.github.io/standort/</guid>
-      <description>&lt;p&gt;div id=&amp;ldquo;map&amp;rdquo; style=&amp;ldquo;width:400px;height:400px;background:yellow&amp;rdquo;&amp;gt;&lt;/div&gt;
-&lt;script&gt;&lt;/p&gt;
-
-&lt;p&gt;function myMap() {
-    var uluru = {lat: 48.28939021468055, lng: 14.290235932224697};
-    var map = new google.maps.Map(document.getElementById(&amp;lsquo;map&amp;rsquo;), {
-      zoom: 9,
-      center: uluru
-    });
-    var marker = new google.maps.Marker({
-      position: uluru,
-      map: map
-    });
-}
-&lt;/script&gt;
-&lt;script src=&#34;https://maps.googleapis.com/maps/api/js?key=AIzaSyATvloQwqtCiHvrHdhzEmt28pgEyy0S4mg&amp;callback=myMap&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+      <description>&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1672.3500007033438!2d14.289687158026554!3d48.289575907343604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sparkhaus%20linz%20bahnhof!5e0!3m2!1sen!2sat!4v1624468150023!5m2!1sen!2sat&#34; width=&#34;600&#34; height=&#34;450&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
