@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://feyjgapro.github.io/posts/my-fist-post/</loc>
+    <lastmod>2021-06-23T12:47:28+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://feyjgapro.github.io/beleg/</loc>
   </url>
   
   <url>
     <loc>https://feyjgapro.github.io/</loc>
+    <lastmod>2021-06-23T12:47:28+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://feyjgapro.github.io/posts/</loc>
+    <lastmod>2021-06-23T12:47:28+02:00</lastmod>
     <priority>0</priority>
   </url>
   
