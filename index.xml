@@ -6,7 +6,17 @@
     <description>Recent content on Parkhaus Bahnhof Linz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
+    <lastBuildDate>Wed, 23 Jun 2021 12:47:28 +0200</lastBuildDate>
     <atom:link href="https://feyjgapro.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>my fist post</title>
+      <link>https://feyjgapro.github.io/posts/my-fist-post/</link>
+      <pubDate>Wed, 23 Jun 2021 12:47:28 +0200</pubDate>
+      
+      <guid>https://feyjgapro.github.io/posts/my-fist-post/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Beleg</title>
@@ -15,6 +25,10 @@
       
       <guid>https://feyjgapro.github.io/beleg/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Beleg anfordern&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Um einen Beleg anzufordern, rufen Sie bitte folgende Seite auf:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://portal.jjames.eu/beleg&#34;&gt;Beleg drucken&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
