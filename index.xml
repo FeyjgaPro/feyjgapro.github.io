@@ -67,7 +67,7 @@
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Produkt&lt;/th&gt;
-&lt;th&gt;Price&lt;/th&gt;
+&lt;th&gt;Preis&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
@@ -80,6 +80,11 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1 Tag&lt;/td&gt;
+&lt;td&gt;€ 28,-&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -125,7 +130,7 @@
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Produkt&lt;/th&gt;
-&lt;th&gt;Price&lt;/th&gt;
+&lt;th&gt;Preis&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
