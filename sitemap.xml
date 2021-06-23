@@ -6,16 +6,16 @@
   </url>
   
   <url>
-    <loc>https://feyjgapro.github.io/contact/</loc>
-  </url>
-  
-  <url>
     <loc>https://feyjgapro.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://feyjgapro.github.io/preise/</loc>
+  </url>
+  
+  <url>
+    <loc>https://feyjgapro.github.io/contact/</loc>
   </url>
   
 </urlset>
