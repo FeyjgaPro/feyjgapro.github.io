@@ -79,16 +79,22 @@
 						<div class="wrapper row">
 							<div class="small-12 medium-12 column content-one">
 								<h1>Standort</h1>
-								<p> <div class="shortcode shortcode--google-maps">
-	<iframe
-		src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBxgEk1e0OBFYNsYgZ_xZiMqNu1ZCzTK0Y&q=Nuernberg%20Germany'
-		frameborder="0"
-		scrolling='no'
-		width='100%'
-		height='300'>
-	</iframe>
-</div>
+								<p> <p>div id=&ldquo;map&rdquo; style=&ldquo;width:400px;height:400px;background:yellow&rdquo;&gt;</div>
+<script></p>
 
+<p>function myMap() {
+    var uluru = {lat: 48.28939021468055, lng: 14.290235932224697};
+    var map = new google.maps.Map(document.getElementById(&lsquo;map&rsquo;), {
+      zoom: 9,
+      center: uluru
+    });
+    var marker = new google.maps.Marker({
+      position: uluru,
+      map: map
+    });
+}
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyATvloQwqtCiHvrHdhzEmt28pgEyy0S4mg&callback=myMap"></script></p>
  </p>
 							</div>
 						</div>

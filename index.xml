@@ -143,16 +143,22 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://feyjgapro.github.io/standort/</guid>
-      <description>&lt;div class=&#34;shortcode shortcode--google-maps&#34;&gt;
-	&lt;iframe
-		src=&#39;https://www.google.com/maps/embed/v1/place?key=AIzaSyBxgEk1e0OBFYNsYgZ_xZiMqNu1ZCzTK0Y&amp;q=Nuernberg%20Germany&#39;
-		frameborder=&#34;0&#34;
-		scrolling=&#39;no&#39;
-		width=&#39;100%&#39;
-		height=&#39;300&#39;&gt;
-	&lt;/iframe&gt;
-&lt;/div&gt;
+      <description>&lt;p&gt;div id=&amp;ldquo;map&amp;rdquo; style=&amp;ldquo;width:400px;height:400px;background:yellow&amp;rdquo;&amp;gt;&lt;/div&gt;
+&lt;script&gt;&lt;/p&gt;
 
+&lt;p&gt;function myMap() {
+    var uluru = {lat: 48.28939021468055, lng: 14.290235932224697};
+    var map = new google.maps.Map(document.getElementById(&amp;lsquo;map&amp;rsquo;), {
+      zoom: 9,
+      center: uluru
+    });
+    var marker = new google.maps.Marker({
+      position: uluru,
+      map: map
+    });
+}
+&lt;/script&gt;
+&lt;script src=&#34;https://maps.googleapis.com/maps/api/js?key=AIzaSyATvloQwqtCiHvrHdhzEmt28pgEyy0S4mg&amp;callback=myMap&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 </description>
     </item>
     
