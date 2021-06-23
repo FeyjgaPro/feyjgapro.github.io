@@ -56,14 +56,12 @@
     </item>
     
     <item>
-      <title>Services</title>
-      <link>https://feyjgapro.github.io/services/</link>
+      <title>Preise</title>
+      <link>https://feyjgapro.github.io/preise/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feyjgapro.github.io/services/</guid>
-      <description>&lt;p&gt;We offer a range of different services in our example company.&lt;/p&gt;
-
-&lt;p&gt;Pricing varies dependent on request but the table below will outline them accordingly.&lt;/p&gt;
+      <guid>https://feyjgapro.github.io/preise/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Stunden- und Tagestarife&lt;/em&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -75,8 +73,13 @@
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;1 Tag&lt;/td&gt;
-&lt;td&gt;€ 15,-&lt;/td&gt;
+&lt;td&gt;0,5 h&lt;/td&gt;
+&lt;td&gt;€ 1,30&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -112,6 +115,29 @@
 &lt;tr&gt;
 &lt;td&gt;Jeder weitere Tag:&lt;/td&gt;
 &lt;td&gt;€ 7,-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;em&gt;Monatstarife&lt;/em&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Produkt&lt;/th&gt;
+&lt;th&gt;Price&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;variabler Platz&lt;/td&gt;
+&lt;td&gt;€ 110,-&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Fixplatz&lt;/td&gt;
+&lt;td&gt;€ 135,-&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
