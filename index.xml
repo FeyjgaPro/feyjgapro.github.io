@@ -68,29 +68,50 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;Product&lt;/th&gt;
-&lt;th&gt;Description&lt;/th&gt;
+&lt;th&gt;Produkt&lt;/th&gt;
 &lt;th&gt;Price&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Product 1&lt;/td&gt;
-&lt;td&gt;Test Product&lt;/td&gt;
-&lt;td&gt;$1000&lt;/td&gt;
+&lt;td&gt;1 Tag&lt;/td&gt;
+&lt;td&gt;€ 15,-&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Product 2&lt;/td&gt;
-&lt;td&gt;Test Product&lt;/td&gt;
-&lt;td&gt;$2000&lt;/td&gt;
+&lt;td&gt;2 Tag&lt;/td&gt;
+&lt;td&gt;€ 28,-&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Product 2&lt;/td&gt;
-&lt;td&gt;Test Product&lt;/td&gt;
-&lt;td&gt;$3000&lt;/td&gt;
+&lt;td&gt;3 Tag&lt;/td&gt;
+&lt;td&gt;€ 40,-&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4 Tag&lt;/td&gt;
+&lt;td&gt;€ 49,-&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;5 Tag&lt;/td&gt;
+&lt;td&gt;€ 55,-&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;6 Tag&lt;/td&gt;
+&lt;td&gt;€ 62,-&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;7 Tag&lt;/td&gt;
+&lt;td&gt;€ 68,-&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Jeder weitere Tag:&lt;/td&gt;
+&lt;td&gt;€ 7,-&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
