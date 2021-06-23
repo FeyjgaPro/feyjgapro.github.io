@@ -6,14 +6,24 @@
     <description>Recent content on Parkhaus Bahnhof Linz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
+    <lastBuildDate>Wed, 23 Jun 2021 12:47:28 +0200</lastBuildDate>
     <atom:link href="https://feyjgapro.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>my fist post</title>
+      <link>https://feyjgapro.github.io/posts/my-fist-post/</link>
+      <pubDate>Wed, 23 Jun 2021 12:47:28 +0200</pubDate>
+      
+      <guid>https://feyjgapro.github.io/posts/my-fist-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>About</title>
-      <link>https://feyjgapro.github.io/information/</link>
+      <link>https://feyjgapro.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feyjgapro.github.io/information/</guid>
+      <guid>https://feyjgapro.github.io/about/</guid>
       <description>&lt;p&gt;This theme was made with Hugo v0.17 on a Mac. It was coded mostly using Textmate and Firefox. It includes a number of features that will help a developer create and manage websites.&lt;/p&gt;
 
 &lt;ul&gt;
