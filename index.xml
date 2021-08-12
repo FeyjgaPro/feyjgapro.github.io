@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bahnhofparkhaus Linz</title>
-    <link>https://feyjgapro.github.io/index.xml</link>
+    <link>https://www.parken.cc/index.xml</link>
     <description>Recent content on Bahnhofparkhaus Linz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <atom:link href="https://feyjgapro.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.parken.cc/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Beleg</title>
-      <link>https://feyjgapro.github.io/beleg/</link>
+      <link>https://www.parken.cc/beleg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feyjgapro.github.io/beleg/</guid>
+      <guid>https://www.parken.cc/beleg/</guid>
       <description>&lt;p&gt;Um einen Beleg anzufordern, rufen Sie bitte folgende Seite auf:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://portal.jjames.eu/receipt&#34;&gt;Beleg anfordern&lt;/a&gt;&lt;/p&gt;
@@ -22,10 +22,10 @@
     
     <item>
       <title>Impressum</title>
-      <link>https://feyjgapro.github.io/impressum/</link>
+      <link>https://www.parken.cc/impressum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feyjgapro.github.io/impressum/</guid>
+      <guid>https://www.parken.cc/impressum/</guid>
       <description>&lt;p&gt;Kreilmeier und Partner GmbH&lt;br /&gt;
 Auerspergstraße 11 Top 3&lt;br /&gt;
 4020 Linz / Österreich&lt;br /&gt;&lt;/p&gt;
@@ -53,10 +53,10 @@ Fax.: +43 7448 21756&lt;br /&gt;&lt;/p&gt;
     
     <item>
       <title>Preise</title>
-      <link>https://feyjgapro.github.io/preise/</link>
+      <link>https://www.parken.cc/preise/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feyjgapro.github.io/preise/</guid>
+      <guid>https://www.parken.cc/preise/</guid>
       <description>&lt;p&gt;Die Bezahlung findet bei der Ausfahrt auschließlich per
 Bankomat- oder Kreditkarte statt. Benötigen Sie einen Beleg, können
 Sie diesen anschließend &lt;a href=&#34;https://portal.jjames.eu/receipt&#34;&gt;hier&lt;/a&gt; anfordern.&lt;/p&gt;
@@ -150,10 +150,10 @@ Sie diesen anschließend &lt;a href=&#34;https://portal.jjames.eu/receipt&#34;&g
     
     <item>
       <title>Standort</title>
-      <link>https://feyjgapro.github.io/standort/</link>
+      <link>https://www.parken.cc/standort/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://feyjgapro.github.io/standort/</guid>
+      <guid>https://www.parken.cc/standort/</guid>
       <description>&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1672.3500007033438!2d14.289687158026554!3d48.289575907343604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sparkhaus%20linz%20bahnhof!5e0!3m2!1sen!2sat!4v1624468150023!5m2!1sen!2sat&#34; width=&#34;600&#34; height=&#34;450&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
