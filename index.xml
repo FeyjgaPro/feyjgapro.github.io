@@ -2,11 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bahnhofparkhaus Linz</title>
-    <link>https://www.parken.cc/index.xml</link>
+    <link>https://www.parken.cc/</link>
     <description>Recent content on Bahnhofparkhaus Linz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <atom:link href="https://www.parken.cc/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://www.parken.cc/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Beleg</title>
@@ -14,10 +16,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.parken.cc/beleg/</guid>
-      <description>&lt;p&gt;Um einen Beleg anzufordern, rufen Sie bitte folgende Seite auf:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://portal.jjames.eu/receipt&#34;&gt;Beleg anfordern&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Um einen Beleg anzufordern, rufen Sie bitte folgende Seite auf:
+Beleg anfordern</description>
     </item>
     
     <item>
@@ -26,29 +26,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.parken.cc/impressum/</guid>
-      <description>&lt;p&gt;Kreilmeier und Partner GmbH&lt;br /&gt;
-Auerspergstraße 11 Top 3&lt;br /&gt;
-4020 Linz / Österreich&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Registreirung:&lt;/strong&gt;&lt;br /&gt;
-Landes- als Handelsgericht Linz&lt;br /&gt;
-FN 199724m&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Betriebsstätte:&lt;/strong&gt;&lt;br /&gt;
-Bahnhofparkhaus Linz&lt;br /&gt;
-Bahnhofplatz 9&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tel: +43 664 5356969&lt;br /&gt;
-Fax.: +43 7448 21756&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;E-Mail: office@parken.cc&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Mitglied der Wirtschaftskammer Österreich im Fachverband des Garagen-, Tankstellen- oder Servicegewerbes.&lt;br /&gt;
-&lt;pre style=&#34;font-family:&#39;New Lucida Console&#39;, sans-serif&#34;&gt;
-&lt;strong&gt;Gewerbebehörde:&lt;/strong&gt;&amp;#9;Magistrat Linz
-&lt;strong&gt;GISA-Zahl:&lt;/strong&gt;&amp;#9;&amp;#9;15051103
-&lt;/pre&gt;&lt;/p&gt;
-</description>
+      <description>Kreilmeier und Partner GmbH
+Auerspergstraße 11 Top 3
+4020 Linz / Österreich
+Registreirung:
+Landes- als Handelsgericht Linz
+FN 199724m
+Betriebsstätte:
+Bahnhofparkhaus Linz
+Bahnhofplatz 9
+Tel: +43 664 5356969
+Fax.: +43 7448 21756
+E-Mail: office@parken.cc
+Mitglied der Wirtschaftskammer Österreich im Fachverband des Garagen-, Tankstellen- oder Servicegewerbes.
+Gewerbebehörde:&amp;#9;Magistrat Linz GISA-Zahl:&amp;#9;&amp;#9;15051103</description>
     </item>
     
     <item>
@@ -57,95 +48,9 @@ Fax.: +43 7448 21756&lt;br /&gt;&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.parken.cc/preise/</guid>
-      <description>&lt;p&gt;Die Bezahlung findet bei der Ausfahrt auschließlich per
-Bankomat- oder Kreditkarte statt. Benötigen Sie einen Beleg, können
-Sie diesen anschließend &lt;a href=&#34;https://portal.jjames.eu/receipt&#34;&gt;hier&lt;/a&gt; anfordern.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Stunden- und Tagestarife&lt;/strong&gt;&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Produkt&lt;/th&gt;
-&lt;th&gt;Preis&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;0,5 h&lt;/td&gt;
-&lt;td&gt;€ 1,40&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;1 Tag&lt;/td&gt;
-&lt;td&gt;€ 15,-&lt;/td&gt;
-&lt;td&gt;+&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;2 Tag&lt;/td&gt;
-&lt;td&gt;€ 13,-&lt;/td&gt;
-&lt;td&gt;€ 28,-&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;3 Tag&lt;/td&gt;
-&lt;td&gt;€ 11,-&lt;/td&gt;
-&lt;td&gt;€ 39,-&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;4 Tag&lt;/td&gt;
-&lt;td&gt;€ 9,-&lt;/td&gt;
-&lt;td&gt;€ 48,-&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;5 Tag&lt;/td&gt;
-&lt;td&gt;€ 7,-&lt;/td&gt;
-&lt;td&gt;€ 55&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Jeder weitere Tag:&lt;/td&gt;
-&lt;td&gt;€ 7,-&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;strong&gt;Monatstarife&lt;/strong&gt;&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Produkt&lt;/th&gt;
-&lt;th&gt;Preis&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;variabler Platz&lt;/td&gt;
-&lt;td&gt;€ 110,-&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Fixplatz&lt;/td&gt;
-&lt;td&gt;€ 135,-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
+      <description>Die Bezahlung findet bei der Ausfahrt auschließlich per Bankomat- oder Kreditkarte statt. Benötigen Sie einen Beleg, können Sie diesen anschließend hier anfordern.
+Stunden- und Tagestarife
+   Produkt Preis      0,5 h € 1,40         1 Tag € 15,-    2 Tage € 28,-    3 Tage € 39,-    4 Tage € 48,-    5 Tage € 55,-    Jeder weitere Tag: € 7,-     Monatstarife</description>
     </item>
     
     <item>
@@ -154,8 +59,7 @@ Sie diesen anschließend &lt;a href=&#34;https://portal.jjames.eu/receipt&#34;&g
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.parken.cc/standort/</guid>
-      <description>&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1672.3500007033438!2d14.289687158026554!3d48.289575907343604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sparkhaus%20linz%20bahnhof!5e0!3m2!1sen!2sat!4v1624468150023!5m2!1sen!2sat&#34; width=&#34;600&#34; height=&#34;450&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
-</description>
+      <description> </description>
     </item>
     
   </channel>
