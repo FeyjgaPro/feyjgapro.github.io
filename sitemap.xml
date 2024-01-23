@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.parken.cc/home/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.parken.cc/</loc>
     <priority>0</priority>
   </url>
